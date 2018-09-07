@@ -27,5 +27,7 @@ switch ($method) {
     break;
     default:
     echo "Method not defined!";
+
+    echo "my change";
 }
 ?>
