@@ -29,6 +29,7 @@ switch ($method) {
     echo "Method not defined!";
 
     echo "my change";
-    echo "tambah lagi";
+    echo "tambah l";
+    echo "asdasd";
 }
 ?>
